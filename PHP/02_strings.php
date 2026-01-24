@@ -1,4 +1,7 @@
 <?php
+
+// Strings: https://www.php.net/manual/en/ref.strings.php
+
 //$str = "WHAT THE FUCK IS THAT";
 //echo strtolower($str);
 //
